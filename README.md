@@ -5,7 +5,8 @@ I'm a PhD student at the UNC Kenan-Flagler Business School, specializing in Oper
 - 💬 **Ask me about** ...\
 Machine Learning\
 Deep Learning (Sequence-to-Sequence Learning, Image Classification)\
-Time Series Analysis and Forecasting
+Time Series Analysis and Forecasting\
+Linear, Integer, and Mixed-Integer Programming
 
 - 📫 **How to reach me** ...\
 LinkedIn: https://www.linkedin.com/in/rahulroy1989/
