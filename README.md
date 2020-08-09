@@ -8,7 +8,7 @@ I'm a PhD student at the UNC Kenan-Flagler Business School, specializing in Oper
 3. Time Series Analysis and Forecasting
 
 - 📫 How to reach me ...
-LinkedIn: https://www.linkedin.com/in/rahulroy1989/
+--> LinkedIn: https://www.linkedin.com/in/rahulroy1989/
 
 <!--
 **rahulroynit/rahulroynit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
