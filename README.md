@@ -2,13 +2,14 @@
 
 I'm a PhD student at the UNC Kenan-Flagler Business School, specializing in Operations (Business Administration), with research interests in Machine and Deep Learning, Forecasting, and decision-making under uncertainty across energy, retail, and healthcare sectors.  
 
-- 💬 Ask me about ...
-1. Machine Learning
-2. Deep Learning (Sequence-to-Sequence Learning, Image Classification)
-3. Time Series Analysis and Forecasting
+- 💬 Ask me about ...\
+Machine Learning\
+Deep Learning (Sequence-to-Sequence Learning, Image Classification)\
+Time Series Analysis and Forecasting
 
-- 📫 How to reach me ...
---> LinkedIn: https://www.linkedin.com/in/rahulroy1989/
+- 📫 How to reach me ...\
+LinkedIn: https://www.linkedin.com/in/rahulroy1989/
+ 
 
 <!--
 **rahulroynit/rahulroynit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
