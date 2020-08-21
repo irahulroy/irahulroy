@@ -4,9 +4,9 @@ I'm a PhD student at the UNC Kenan-Flagler Business School, specializing in Oper
 
 - 💬 **Ask me about** ...\
 Machine Learning\
-Deep Learning (Sequence-to-Sequence Learning, Image Recognition)\
+Deep Learning\
 Time Series Analysis\
-Forecasting\
+Forecasting
 
 - 📫 **How to reach me** ...\
 LinkedIn: https://www.linkedin.com/in/roy09/
