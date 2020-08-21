@@ -1,4 +1,4 @@
-### Bonjour, Je Suis Rahul!
+### Hi, I'm Rahul!
 
 I'm a PhD student at the UNC Kenan-Flagler Business School, specializing in Operations (Business Administration), with research interests in Machine and Deep Learning, Forecasting, and decision-making under uncertainty across energy, retail, and healthcare sectors.  
 
