@@ -9,7 +9,7 @@ Time Series Analysis\
 Forecasting\
 
 - 📫 **How to reach me** ...\
-LinkedIn: https://www.linkedin.com/in/rahulroy1989/
+LinkedIn: https://www.linkedin.com/in/roy09/
  
 
 <!--
