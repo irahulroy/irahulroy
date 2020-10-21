@@ -1,6 +1,6 @@
 ### Hi, I'm Rahul!
 
-I'm a PhD student at the UNC Kenan-Flagler Business School, specializing in Operations (Business Administration), with research interests in Machine and Deep Learning, Reinforcement Learning, Forecasting, and Robust Optimization across energy, retail, and healthcare sectors.  
+I'm a PhD student at the UNC Kenan-Flagler Business School, specializing in Operations (Business Administration), with research interests in Machine and Deep Learning, Reinforcement Learning, Forecasting, and Robust Optimization.  
 
 - 💬 **Ask me about** ...\
 Machine Learning\
