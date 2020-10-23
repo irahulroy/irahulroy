@@ -1,17 +1,18 @@
 ### Hi, I'm Rahul!
 
-I'm a PhD student at the UNC Kenan-Flagler Business School, specializing in Operations (Business Administration), with research interests in Machine and Deep Learning, Reinforcement Learning, Forecasting, and Robust Optimization.  
+An adept Data Scientist and a Ph.D. student, specializing in Operations (Business Administration), with research interests in Machine and Reinforcement Learnings, Forecasting, and Robust Optimization. 
 
 - 💬 **Ask me about** ...\
 Machine Learning\
 Deep Learning\
 Time Series Analysis\
-Forecasting
+Forecasting\
+Operations Research
 
 - 📫 **How to reach me** ...\
-LinkedIn: https://www.linkedin.com/in/rroy09/
+LinkedIn: https://www.linkedin.com/in/rroy09/ \
+Webpage: https://rroy09.github.io/
  
-
 <!--
 **rahulroynit/rahulroynit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
