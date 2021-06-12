@@ -1,6 +1,6 @@
 ### Hi, I'm Rahul! :pray:
 
-An adept Data Scientist and a Ph.D. student, specializing in Operations (Business Administration), with research interests in Machine and Reinforcement Learnings, Forecasting, and Robust Optimization. 
+An adept Data Scientist and a Ph.D. student, specializing in Operations Management (Business Administration), with research interests in Machine and Reinforcement Learnings, Forecasting, and Robust Optimization. 
 
 - 💬 **Ask me about** ...\
 Machine Learning\
