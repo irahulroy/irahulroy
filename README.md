@@ -10,7 +10,7 @@ Forecasting\
 Operations Research
 
 - 📫 **How to reach me** ...\
-LinkedIn: https://www.linkedin.com/in/rroy09/ \
+LinkedIn: https://www.linkedin.com/in/rahulbroy/ \
 Webpage: https://rroy09.github.io/
  
 <!--
