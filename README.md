@@ -11,7 +11,7 @@ Operations Research
 
 - 📫 **How to reach me** ...\
 LinkedIn: https://www.linkedin.com/in/rahulbroy/ \
-Webpage: https://rroy09.github.io/
+Webpage: https://irahulroy.github.io/
  
 <!--
 **rahulroynit/rahulroynit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
