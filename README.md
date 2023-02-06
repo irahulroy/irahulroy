@@ -1,6 +1,6 @@
 ### Hi, I'm Rahul! :pray:
 
-An adept Data Scientist and a Ph.D. Candidate, specializing in Operations (Business Administration), with research interests in Machine Learning and Nonlinear Optimization. 
+An adept Data Scientist and a Ph.D. Candidate, specializing in Operations, with research interests in Operations Research and Machine Learning. 
 
 - 💬 **Ask me about** ...\
 Machine Learning\
